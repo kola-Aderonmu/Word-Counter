@@ -1,0 +1,6 @@
+{
+  "name": "WordCounter Pro - Real-Time Text & Character Statistics",
+  "description": "Comprehensive real-time word counter, character statistics, reading time estimates, letter density analyzer, and text transformation tools with sleek dark mode.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
